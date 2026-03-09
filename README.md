@@ -166,5 +166,6 @@ This issue was reported in the bug report with **High severity** as it impacts t
 
 # Author
 
-Mohammad Rehan Fazal  
+Aditya Raj  
+
 QA Engineer Intern Candidate
